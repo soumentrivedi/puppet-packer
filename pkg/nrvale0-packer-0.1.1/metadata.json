@@ -1,6 +1,6 @@
 {
   "name": "nrvale0-packer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "source": "git://github.com/nrvale0/puppet-packer",
   "author": "Nathan Valentine - nrvale0@gmail.com|nathan@puppetlabs.com",
   "license": "Apache License, Version 2.0",
@@ -22,7 +22,7 @@
   ],
   "checksums": {
     "LICENSE": "d2794c0df5b907fdace235a619d80314",
-    "Modulefile": "905af3b3dd01a4a7562a2d85421b8293",
+    "Modulefile": "50a96308eb8e9f5b3aaa1b49131f8424",
     "README.md": "748adf7933b613662d2e2d9abf225438",
     "manifests/init.pp": "f6971b89fc8fe897e81a5fd0e1432997",
     "manifests/params.pp": "8a7df9b43b063fd3d86fa6dfe8c5e5c6",
