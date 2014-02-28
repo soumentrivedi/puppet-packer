@@ -4,7 +4,7 @@ Puppet module to install Packer (packer.io)
 
 # Usage
 ```puppet
-class { 'packer': install_dir => '/opt/packer/bin', version => '0.5.2', }
+class { 'packer': install_dir => '/opt/packer', version => '0.5.2', }
 ```
 
 # Notes
