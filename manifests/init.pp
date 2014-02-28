@@ -21,6 +21,7 @@ class packer(
       owner => 'puppet',
       group => 'puppet',
     }
+  }
   
   staging::file { $package_name: source => $full_url, } ->
   staging::extract { $package_name:
